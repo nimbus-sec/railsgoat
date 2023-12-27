@@ -6,7 +6,7 @@ bugs to RailsGoat that we ask you to take a look first.
 Notice that all of your interactions in the project are
 expected to follow our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-## Reporting Issues
+## Reporting Issues!
 
 Before reporting a new issue, please be sure that the issue wasn't
 already reported or fixed by searching on GitHub through our
